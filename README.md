@@ -3,7 +3,7 @@
 **`Desenvolvedor Full-Stack`** **`Engenharia da Computação`** **`Análise de Dados`**
 
 Sou estudante de Engenharia da Computação, apaixonado por tecnologia, programação e aprendizado contínuo.  
-Atualmente estudo e desenvolvo projetos com foco em **Python**, **C#/.NET**, bancos de dados e lógica de sistemas.
+Atualmente estudo e desenvolvo projetos com foco em **Python**, **C#/.NET**, bancos de dados, lógica de sistemas e IA aplicada para indústria.
 
 Também possuo entusiasmo por engenharia de software, performance, boas práticas de código e estou sempre buscando evoluir — tanto academicamente quanto profissionalmente.
 
