@@ -1,51 +1,49 @@
-# 🧑🏾‍💻 Pedro Jorge
+# 👨🏽‍💻 Pedro Jorge
 
-**`Desenvolvedor Full-Stack`** **`Engenharia da Computação`** **`Análise de Dados`**
+<div align="center">
+  <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-000?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engenharia_da_Computação-000?style=for-the-badge&logo=pc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Análise_de_Dados-000?style=for-the-badge&logo=data&logoColor=white"/>
+</div>
 
-Sou estudante de Engenharia da Computação, apaixonado por tecnologia, programação e aprendizado contínuo.  
-Atualmente estudo e desenvolvo projetos com foco em **Python**, **C#/.NET**, bancos de dados, lógica de sistemas e IA aplicada para indústria.
+<br/>
 
-Também possuo entusiasmo por engenharia de software, performance, boas práticas de código e estou sempre buscando evoluir — tanto academicamente quanto profissionalmente.
+### 🎯 Sobre mim
 
-🚀 Em constante aprendizado e aberto a novos desafios.
+- 🎓 Estudante de Engenharia da Computação (previsão de formatura em 2026).
+- ⚙️ Entusiasta de automação industrial, instrumentação, sistemas embarcados e análise de dados.
+- 🚀 Atualmente desenvolvendo projetos práticos, construindo meu portfólio web responsivo e criando APIs.
+- 🗣️ Inglês intermediário voltado para o mercado de tecnologia.
 
 ---
 
-### 🧰 Linguagens e Ferramentas
+### 💻 Tecnologias e Ferramentas
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt=".NetCore" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-<br />
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-### Redes Sociais
-   <p align="left">
-      <a href="https://github.com/Pedrojorge11?tab=followers">
-         <img 
-            alt="Seguidores"
-            title="Me siga no Github" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Pedrojorge11?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/></a>
-      <a href="https://github.com/Pedrojorge11?tab=repositories&sort=stargazers">
-         <img 
-            alt="Estrelas" 
-            title="Total de estrelas no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Pedrojorge11?color=55960c&style=for-the-badge&labelColor=488207&logo=Star&label=estrelas"/></a>
-    <a href="https://www.linkedin.com/in/pedro-jorge-da-silva/">
-         <img 
-            alt="LinkedIn"
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://www.instagram.com/pedrojorge11/">
-         <img 
-            alt="Instagram"
-            title="Me siga no Instagram" 
-            src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-   </p>
+**Backend & Dados**
+<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrojorge11&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrojorge11&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 🌐 Redes Sociais
+
+<a href="https://www.linkedin.com/in/pedro-jorge-da-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:pjorge.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
