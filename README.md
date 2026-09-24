@@ -10,10 +10,17 @@
 
 ### 🎯 Sobre mim
 
-- 🎓 Graduado em Engenharia da Computação.
-- ⚙️ Entusiasta de automação industrial, instrumentação, sistemas embarcados e análise de dados.
-- 🚀 Atualmente desenvolvendo projetos práticos, construindo meu portfólio web responsivo e criando APIs.
+- 🎓 Graduado em Engenharia da Computação (2026).
+- 🤖 Formação técnica em Inteligência Artificial Industrial pelo SENAI (2026).
+- 🚀 Atualmente desenvolvendo projetos práticos, construindo portfólio web responsivo e criando APIs.
 - 🗣️ Inglês avançado voltado para o mercado de tecnologia.
+
+---
+
+### 👁️ Destaque de Projeto: Visão Computacional
+Um dos meus projetos práticos disponíveis neste repositório aborda o processamento digital de imagens utilizando Python:
+* **Pipeline:** Conversão para escala de cinza, suavização com Filtro Gaussiano e binarização automática (Método de Otsu) para isolamento de regiões e detecção de contornos.
+* **Bibliotecas:** `OpenCV`, `NumPy`, `Matplotlib`.
 
 ---
 
