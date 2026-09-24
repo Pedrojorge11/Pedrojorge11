@@ -10,7 +10,7 @@
 
 ### 🎯 Sobre mim
 
-- 🎓 Estudante de Engenharia da Computação (previsão de formatura em 2026).
+- 🎓 Graduado em Engenharia da Computação.
 - ⚙️ Entusiasta de automação industrial, instrumentação, sistemas embarcados e análise de dados.
 - 🚀 Atualmente desenvolvendo projetos práticos, construindo meu portfólio web responsivo e criando APIs.
 - 🗣️ Inglês intermediário voltado para o mercado de tecnologia.
