@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Desenvolvedor_Full--Stack-000?style=for-the-badge&logo=code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Engenharia_da_Computação-000?style=for-the-badge&logo=pc&logoColor=white"/>
   <img src="https://img.shields.io/badge/Análise_de_Dados-000?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automação_E_IA-000?style=for-the-badge&logo=data&logoColor=white"/>
 </div>
 
 <br/>
